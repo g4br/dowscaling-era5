@@ -1,0 +1,15 @@
+# Dependencias do pipeline core (F0–F8). Testado em Python 3.12.
+# Instale num ambiente isolado: python -m venv .venv && pip install -r requirements.txt
+numpy
+pandas
+pyarrow          # backend parquet (matriz de treino, estacoes_qc)
+xarray
+netCDF4          # engine para ler ERA5-Land NetCDF via xarray
+rioxarray
+rasterio
+pyproj
+scipy
+scikit-learn
+lightgbm
+matplotlib
+whitebox         # WhiteboxTools: HAND no F2a3
