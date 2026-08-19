@@ -1,0 +1,35 @@
+{
+  "era5_t2m": {
+    "min": "202001",
+    "max": "202512",
+    "n": 69,
+    "gaps": [
+      "202210",
+      "202211",
+      "202212"
+    ]
+  },
+  "era5_d2m": {
+    "min": "202001",
+    "max": "202512",
+    "n": 72,
+    "gaps": []
+  },
+  "era5_rad": {
+    "min": "202001",
+    "max": "202512",
+    "n": 72,
+    "gaps": []
+  },
+  "estacoes": {
+    "min": "201901",
+    "max": "202512",
+    "n_meses": 84
+  },
+  "periodo_comum_usavel": {
+    "n_meses": 69,
+    "min": "202001",
+    "max": "202512",
+    "limitante": "gap de t2m (base do residuo)"
+  }
+}
