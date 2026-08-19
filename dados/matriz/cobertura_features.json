@@ -1,0 +1,20 @@
+{
+  "n_linhas": 8184099,
+  "n_features": 57,
+  "celulas": 206,
+  "estacoes_originais": 221,
+  "instantes_celula_multi_estacao": 334718,
+  "lim_residuo": 10.0,
+  "outliers_residuo_removidos": 2265,
+  "nan_por_coluna": {
+    "razao_bowen": 593180,
+    "d2t2m_2h": 11515,
+    "d2t2m_3h": 34533,
+    "hand_mean_1km": 189361,
+    "hand_p10_1km": 189361
+  },
+  "estaticas_nan_celulas": {
+    "hand_mean_1km": 5,
+    "hand_p10_1km": 5
+  }
+}
